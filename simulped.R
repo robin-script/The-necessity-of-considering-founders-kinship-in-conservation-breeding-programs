@@ -1,5 +1,5 @@
-## Robin Rabier, Adèle Erlichman, Loïc Lesobre, Alexandre Robert##
-################## script writted by Adèle Erlichman ####################
+## Robin Rabier, AdÃ¨le Erlichman, LoÃ¯c Lesobre, Alexandre Robert##
+################## script created by AdÃ¨le Erlichman ####################
 ############################## 20/02/2021 ###############################
 #########################################################################
 
