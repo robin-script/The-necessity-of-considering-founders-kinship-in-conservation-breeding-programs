@@ -1,6 +1,5 @@
 ## Robin Rabier, Adèle Erlichman, Loïc Lesobre, Alexandre Robert##
 ################## script created by Adèle Erlichman ####################
-############################## 20/02/2021 ###############################
 #########################################################################
 
 ## script used in order to simulate source and captive populations
