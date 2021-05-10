@@ -1,8 +1,6 @@
-## Robin Rabier, Adèle Erlichman, Loïc Lesobre, Alexandre Robert##
-################## script created by Adèle Erlichman ####################
-#########################################################################
+## The necessity of considering founders' kinship in conservation breeding programs ##
 
-## script used in order to simulate source and captive populations
+# script used in order to simulate source and captive populations
 
 
 library(dplyr)
